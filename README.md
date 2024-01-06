@@ -15,6 +15,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Usage](#usage)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
+* [Project Title](Project title)
 * [Authors](#authors)
 * [License](#license)
 
@@ -152,8 +153,13 @@ EOF  all  create  destroy  help  quit  show  update
 
 ## Bugs
 No known bugs at this time. 
+ 
+## Project Title - AirBnB clone - RESTful API
 
 ## Authors
+Nyarko Philip Abel -{Github}(https://github.com/GentlePhilip) [Email](aphilipnyarko@gmail.com)
+Olekwa John  - [Github}(https://github.com/olekwa) [Email](johnolekwa@gmail.com)
+
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
